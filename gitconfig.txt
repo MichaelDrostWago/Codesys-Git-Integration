@@ -1,0 +1,5 @@
+[remote "origin"]
+    http://ipadress:3001/repo/lop.git
+[user]
+    name = name
+    email = name@example.com
