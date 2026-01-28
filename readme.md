@@ -1,6 +1,5 @@
 ## Project Process for Version Control in Codesys
-1. Edit gitconfig.txt to your repo an your name
-2. sometime you have to enable the folder manually
+1. Edit gitconfig.txt to your repo an your name, this has to be Part of the folder which contains the .project file.
 
 3. run scripts after changes and commit
 ```mermaid
