@@ -1,6 +1,7 @@
 ## Version Control for Codesys Projects
 
-1. Edit gitconfig.txt to your repo an your name, this has to be Part of the folder which contains the .project file.
+1. Edit gitconfig.txt, this has to be Part of the folder which contains the .project file.
+<img width="333" height="110" alt="image" src="https://github.com/user-attachments/assets/c74fa10b-1888-420a-a737-3cb174fda046" />
 
 3. run scripts after changes and commit
 ```mermaid
