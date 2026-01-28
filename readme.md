@@ -1,7 +1,11 @@
 ## Version Control for Codesys Projects
+Requirements: GIT is intalled on your Computer
 
 1. Edit gitconfig.txt, this has to be Part of the folder which contains the .project file.
 <img width="333" height="110" alt="image" src="https://github.com/user-attachments/assets/c74fa10b-1888-420a-a737-3cb174fda046" />
+<img width="647" height="238" alt="image" src="https://github.com/user-attachments/assets/5ee518ce-bbb4-4e42-bedc-284c942fbb34" />
+
+
 
 3. run scripts after changes and commit
 ```mermaid
